@@ -36,7 +36,7 @@ import {
 
 import union from 'lodash.union';
 
-import {forceClient} from 'react.force';
+import {forceClient} from 'react-native-force';
 
 import {requestWithTypeAndId} from 'react.force.data';
 

@@ -33,7 +33,7 @@ import {
   ListView
 } from 'react-native';
 
-import {forceClient} from 'react.force';
+import {forceClient} from 'react-native-force';
 
 import {requestWithTypeAndId} from 'react.force.data';
 
